@@ -6,3 +6,7 @@ public class C1_CheckCores {
         System.out.println(cores);
     }
 }
+
+/*
+14
+ */
