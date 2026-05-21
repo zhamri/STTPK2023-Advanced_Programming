@@ -1,1 +1,8 @@
-## STTPK2023-Advanced_Programming
+## Create Table
+```sql
+CREATE TABLE students (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100),
+    email VARCHAR(100)
+);
+```
